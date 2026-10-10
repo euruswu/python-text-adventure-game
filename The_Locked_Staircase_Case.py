@@ -1,7 +1,6 @@
 # Project: The Locked Staircase Case
 # Description: An interactive text-based adventure game.
-# The player controls Mo, a high school student who investigates a hidden
-# laboratory area with his classmate T.
+# The player controls Mo, a high school student who investigates a hidden laboratory area with his classmate T.
 
 
 def write_log(log_file, message):
